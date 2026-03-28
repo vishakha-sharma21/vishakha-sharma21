@@ -13,7 +13,7 @@
 
 ---
 
-## Who am I ?
+## Who am I ??
 
 ```python
 class Vishakha:
@@ -29,13 +29,13 @@ class Vishakha:
 
 ---
 
-## 🎨 Beyond the Screen
+## 🎨 Beyond the Screen !!
 
 > I do **art & craft** — and it's not just a hobby. It's taught me **patience**, **attention to detail**, and how to sit with something until it's *just right*. Turns out, those are also really good qualities for debugging at 1am. 🫠
 
 ---
 
-## My Stack
+## My Stack !!
 
 <div align="center">
 
@@ -55,7 +55,7 @@ class Vishakha:
 
 ---
 
-## ✨ things that make me, me
+## ✨ Things that make me, me
 
 - 🎨 &nbsp; Art & craft is my meditation — patience is a skill I *actually* practice
 - 🧠 &nbsp; I notice the small things — in design, in code, in life
